@@ -1,7 +1,7 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil do GitHub.
 <h1 align="left"> Natalia Salatiel.</h1>
 
-Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste do Rio de Janeiro e me encontrei na área da programação!💜
+Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste do Rio de Janeiro e me encontrei na área da programação💜
 
 - :mortar_board: Atualmente estou graduando na Universidade Candido Mendes, no curso Sistemas de Informação.
 - :books: Estou ampliando meus cohecimentos em linguagens de programação através de cursos, pelas instituições Alura e Senac.
@@ -23,8 +23,8 @@ Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste 
 <code><img   width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" /></code> 
 
 </br>
-<div align="center">
-  <a href="https://www.instagram.com/ntsalatiel" target="_blank"><img align="left" alt="Instagram" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-  <a href="https://www.linkedin.com/in/natalia-salatiel-desenvolvedora-web" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-</div>
+
+  <a align="center" href="https://www.instagram.com/ntsalatiel" target="_blank"><img align="left" alt="Instagram" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  <a align="center"  href="https://www.linkedin.com/in/natalia-salatiel-desenvolvedora-web" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+
 
