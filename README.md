@@ -19,7 +19,8 @@ Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste 
 <code><img  width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"  title="MySQL"/></code>
 <code><img  width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"title="JAVA"/></code> 
 <code><img  width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"  title="GIT"/></code> 
-<code><img  width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  title="GITHUB"/></code><code> <img width="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="VSCODE" /></code> 
+<code><img  width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  title="GITHUB"/></code>
+<code><img width="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  title="VSCODE" /></code> 
 </p>
 
 <h3 align="center">Estou aprendendo :brain:</h3> 
