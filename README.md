@@ -7,7 +7,7 @@
 Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste do Rio de Janeiro e me encontrei na área de programação. 💜
 
 - :mortar_board: Atualmente estou graduando na Universidade Candido Mendes, no curso Sistemas de Informação.
-- :books: Estou ampliando meus cohecimentos em linguagens de programação através de cursos, pelas instituições Alura e Senac.
+- :books: Estou ampliando meus conhecimentos em linguagens de programação através de cursos, pelas instituições Alura e Senac.
 - :pushpin: Rio de Janeiro.
 - :dart: Gosto de aprender coisas novas.
 - :mag_right: Buscando minha primeira experiência profissional.
