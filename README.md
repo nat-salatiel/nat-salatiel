@@ -1,4 +1,4 @@
-<img width="800"  align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6cDB0dW4zNW5rajFlOGYzdDhlNWc3Njh5Z3phNmp5bjB0cTk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbbAajWqvmxoMA0i3q/giphy.gif"/>
+<img width="1000"  align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6cDB0dW4zNW5rajFlOGYzdDhlNWc3Njh5Z3phNmp5bjB0cTk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbbAajWqvmxoMA0i3q/giphy.gif"/>
 
 
 <h1 align="center">👋 Olá! Seja bem-vindo(a) ao meu perfil do GitHub.</h1>
@@ -29,7 +29,7 @@ Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste 
 </br>
 
 <p align="center">
-  <a href="https://www.instagram.com/ntsalatiel" target="_blank"><img  alt="Instagram" width="50px"  src="https://img.icons8.com/fluency/144/000000/instagram-new.png"/>
+  <a href="https://www.instagram.com/ntsalatiel" target="_blank"><img  alt="Instagram" width="40px"  src="https://img.icons8.com/fluency/144/000000/instagram-new.png"/>
   <a  href="https://www.linkedin.com/in/natalia-salatiel-desenvolvedora-web" target="_blank"><img  alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 </p>
 
