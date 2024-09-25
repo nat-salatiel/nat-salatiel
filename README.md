@@ -1,4 +1,4 @@
-<img width="1000"  align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6cDB0dW4zNW5rajFlOGYzdDhlNWc3Njh5Z3phNmp5bjB0cTk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbbAajWqvmxoMA0i3q/giphy.gif"/>
+<p align="center"><img width="500"   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6cDB0dW4zNW5rajFlOGYzdDhlNWc3Njh5Z3phNmp5bjB0cTk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbbAajWqvmxoMA0i3q/giphy.gif"/></p>
 
 
 <h1 align="center"> 👋 Olá! Seja bem-vindo(a) ao meu perfil do GitHub.</h1>
