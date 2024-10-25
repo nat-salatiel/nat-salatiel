@@ -7,7 +7,7 @@
 Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste do Rio de Janeiro e me encontrei na área de programação. 💜
 
 - :mortar_board: Atualmente estou graduando na Universidade Candido Mendes, no curso Sistemas de Informação.
-- :books: Estou ampliando meus conhecimentos em linguagens de programação através de cursos, pelas instituições Alura e Senac.
+- :books: Estou ampliando meus conhecimentos em linguagens de programação através de cursos.
 - :pushpin: Rio de Janeiro.
 - :dart: Gosto de aprender coisas novas.
 - :mag_right: Buscando minha primeira experiência profissional.
@@ -26,6 +26,7 @@ Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste 
 <h3 align="center">Estou aprendendo :brain:</h3> 
 <p align="center">
 <code><img   width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="PYTHON" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="FLASK" /></code>
 <code><img   width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" /></code> 
 </p>
 </br>
