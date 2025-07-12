@@ -4,7 +4,7 @@
 <h1 align="center"> 👋 Olá! Seja bem-vindo(a) ao meu perfil do GitHub.</h1>
 <h2 align="center"> Natalia Salatiel.</h2>
 
-Tenho 24 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste do Rio de Janeiro e me encontrei na área de programação. 💜
+Tenho 25 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste do Rio de Janeiro e me encontrei na área de programação. 💜
 
 - :mortar_board: Atualmente estou graduando na Universidade Candido Mendes, no curso Sistemas de Informação.
 - :books: Estou ampliando meus conhecimentos em linguagens de programação através de cursos.
