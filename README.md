@@ -34,7 +34,7 @@ Tenho 25 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste 
 </br>
 
 <p align="center">
-  <a href="https://www.instagram.com/ntsalatiel" target="_blank"><img  alt="Instagram" width="40px"  src="https://img.icons8.com/fluency/144/000000/instagram-new.png"/>
-  <a  href="https://www.linkedin.com/in/natalia-salatiel-desenvolvedora-web" target="_blank"><img  alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.instagram.com/ntsalatiel" target="_blank"><img  alt="Instagram" width="50px" src="https://github.com/user-attachments/assets/2d979cc9-2bea-4a71-9122-b0bccfc73839"/></a>
+  <a  href="https://www.linkedin.com/in/natalia-salatiel-desenvolvedora-web" target="_blank"><img  alt="LinkedIn" width="50px" src="https://github.com/user-attachments/assets/7d788ae5-629e-4c54-881f-fe2212496620"/></a>
 </p>
 
