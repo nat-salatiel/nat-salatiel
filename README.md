@@ -8,7 +8,6 @@ Tenho 25 anos, sou de Nilópolis (baixada fluminense) porém moro na Zona Oeste 
 
 - :mortar_board: Atualmente estou graduando na Universidade Candido Mendes, no curso Sistemas de Informação.
 - :books: Estou ampliando meus conhecimentos na área através de cursos.
-- :pushpin: Rio de Janeiro.
 - :dart: Gosto de aprender coisas novas.
 - :mag_right: Buscando minha primeira experiência profissional.
 
